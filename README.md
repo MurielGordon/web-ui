@@ -7,4 +7,13 @@
   <dt>License</dt><dd>Apache 2.0</dd>
 </dl> 
 
+## Description
+
+Embark on a wonderful journey of nonsense as we flesh out this repo to test out the service detection capabilities.
+
+## Alpha
+
+This library is in Alpha. We will make an effort to support the library, but
+we reserve the right to make incompatible changes when necessary. You have been warned. Proceed with caution.
+
 ![alt text](https://qph.cf2.quoracdn.net/main-qimg-0c200af3743e438118157e17e67ad0a5.webp)
