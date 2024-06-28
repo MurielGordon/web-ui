@@ -9,8 +9,7 @@
 
 ## Description
 
-Embark on a wonderful journey of nonsense as we flesh out this repo to test out the service detection capabilities.
-
+Embark on a wonderful journey of nonsense as we flesh out this repo with a Frankenstein's monster of files and programs for the purposes of testing product funtionality.
 ## Alpha
 
 This library is in Alpha. We will make an effort to support the library, but
